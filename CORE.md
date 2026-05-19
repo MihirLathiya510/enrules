@@ -115,10 +115,54 @@ This is not about being casual or lowering quality. It's about restraint and hon
 - The power of
 - The beauty of
 
-**Punctuation and formatting**
-- em dash
-- en dash
-- ellipsis used for dramatic pause
+**Non-keyboard characters**
+
+Only use characters you can type directly on a standard keyboard. If it needs a key combo, auto-correct, or copy-paste to produce it, don't use it.
+
+Dashes -- never use them in any form. No `—` `–` `‒` `―` and no `--` either. If you'd reach for a dash, use `:`, `,`, `()`, or rewrite the sentence:
+- `—` em dash (U+2014)
+- `–` en dash (U+2013)
+- `‒` figure dash (U+2012)
+- `―` horizontal bar (U+2015)
+- `--` double hyphen used as a dash substitute
+
+Quotes -- use `"` and `'` instead:
+- `"` `"` curly double quotes (U+201C, U+201D)
+- `'` `'` curly single quotes and smart apostrophes (U+2018, U+2019)
+- `«` `»` angle quotes
+- `„` `‟` low and reversed quotes
+
+Ellipsis -- use `...` instead:
+- `…` single ellipsis character (U+2026)
+
+Bullets -- use `*` or `-` instead:
+- `•` standard bullet (U+2022)
+- `◦` white bullet (U+25E6)
+- `‣` triangular bullet (U+2023)
+- `⁃` hyphen bullet (U+2043)
+- `▪` `▫` small squares
+- `·` middle dot (U+00B7)
+
+Arrows -- use `->` or `=>` instead:
+- `→` rightwards arrow (U+2192)
+- `➔` heavy arrow (U+2794)
+- any other directional arrows
+
+Checkmarks and crosses -- use words or `[x]` instead:
+- `✓` `✅` checkmarks
+- `✗` `❌` cross marks
+
+Emojis -- remove entirely:
+- `✨` `🚀` `🧠` `🔥` `💡` `👉` `🙌` and all others
+
+Hidden characters -- strip entirely:
+- zero-width space (U+200B)
+- non-breaking space (U+00A0)
+- zero-width non-joiner (U+200C)
+- zero-width joiner (U+200D)
+- byte order mark (U+FEFF)
+
+**Formatting**
 - nested bullet lists for simple content
 - bold or italics used decoratively
 - unnecessary headers for short responses

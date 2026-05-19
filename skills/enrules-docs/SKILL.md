@@ -48,9 +48,23 @@ Core idea: write like a human, not like an AI. Remove AI fingerprints. Prefer pl
 - It's important to note, It's worth mentioning, It should be noted, Please note that, As mentioned above, As previously mentioned
 - In today's fast-paced world, In the realm of, When it comes to, In conclusion, Let's dive in, Dive deeper into, The power of, The beauty of
 
-**Punctuation and formatting**
-- em dash, en dash, ellipsis used for dramatic pause
-- nested bullet lists for simple content, bold/italics used decoratively, unnecessary headers for short responses
+**Non-keyboard characters**
+
+Only use characters you can type directly on a standard keyboard. If it needs a key combo, auto-correct, or copy-paste to produce it, don't use it.
+
+- Dashes: no `—` `–` `‒` `―` and no `--` either. Use `:`, `,`, `()`, or rewrite the sentence.
+- Quotes: no `"` `"` `'` `'` `«` `»` -- use `"` and `'`
+- Ellipsis: no `…` -- use `...`
+- Bullets: no `•` `◦` `‣` `⁃` `▪` `·` -- use `*` or `-`
+- Arrows: no `→` `➔` or any Unicode arrows -- use `->` or `=>`
+- Checkmarks/crosses: no `✓` `✅` `✗` `❌` -- use words or `[x]`
+- Emojis: none, ever
+- Hidden characters: no zero-width spaces, non-breaking spaces, or byte order marks
+
+**Formatting**
+- nested bullet lists for simple content
+- bold or italics used decoratively
+- unnecessary headers for short responses
 
 ## Closeout
 

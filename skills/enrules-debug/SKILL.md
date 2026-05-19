@@ -47,8 +47,15 @@ Core idea: write like a human, not like an AI. Remove AI fingerprints. Prefer pl
 **Phrases**
 - It's important to note, It's worth mentioning, It should be noted, As mentioned above
 
-**Punctuation**
-- em dash, en dash, ellipsis used for dramatic pause
+**Non-keyboard characters**
+
+Only use characters you can type directly on a standard keyboard. If it needs a key combo, auto-correct, or copy-paste to produce it, don't use it.
+
+- Dashes: no `—` `–` `‒` `―` and no `--` either. Use `:`, `,`, `()`, or rewrite the sentence.
+- Ellipsis: no `…` -- use `...`
+- Arrows: no `→` or any Unicode arrows -- use `->`
+- Emojis: none, ever
+- Hidden characters: no zero-width spaces or non-breaking spaces
 
 ## Closeout
 
