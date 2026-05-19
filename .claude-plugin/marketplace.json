@@ -1,0 +1,24 @@
+{
+  "name": "enrules",
+  "owner": {
+    "name": "Mihir Lathiya",
+    "email": "mihirlathiya2@gmail.com"
+  },
+  "metadata": {
+    "description": "Claude Code plugin for repo-aware, low-slop engineering work."
+  },
+  "plugins": [
+    {
+      "name": "enrules",
+      "source": "./",
+      "description": "Claude Code plugin for repo-aware, small, dependency-cautious, plainly written engineering work.",
+      "version": "1.0.0",
+      "author": {
+        "name": "Mihir Lathiya",
+        "email": "mihirlathiya2@gmail.com"
+      },
+      "category": "productivity",
+      "tags": ["engineering", "code-quality", "review", "debugging"]
+    }
+  ]
+}

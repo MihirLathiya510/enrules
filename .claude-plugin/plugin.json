@@ -1,0 +1,8 @@
+{
+  "name": "enrules",
+  "description": "Claude Code plugin for repo-aware, small, dependency-cautious, plainly written engineering work.",
+  "version": "1.0.0",
+  "author": {
+    "name": "Mihir Lathiya"
+  }
+}
