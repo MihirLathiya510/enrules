@@ -13,7 +13,7 @@ When active, Claude:
 - reads the relevant code and context before touching anything
 - makes the smallest change that solves the task
 - matches the repo's existing names, patterns, and style
-- skips the AI vocabulary, filler transitions, opener/closer boilerplate, em dashes, and hollow prose
+- skips AI vocabulary, filler transitions, opener/closer boilerplate, non-keyboard characters (dashes, curly quotes, arrows, bullets, emojis, hidden Unicode), and hollow prose
 - writes like a specific engineer made a specific decision, not like a language model composing a response
 
 ## Skills
